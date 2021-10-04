@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244293733401",
+    "firebase_url": "https://contactos-980dc-default-rtdb.firebaseio.com",
+    "project_id": "contactos-980dc",
+    "storage_bucket": "contactos-980dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244293733401:android:39e1f365fe8dbd65206e88",
+        "android_client_info": {
+          "package_name": "ec.edu.tecnologicoloja.contactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244293733401-geikasan5hj9sq35nibq2j8moqa61j0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzniy30d2flEfbRlkXRyhULRwKdRJ-OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244293733401-geikasan5hj9sq35nibq2j8moqa61j0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
